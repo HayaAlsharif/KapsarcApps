@@ -1,0 +1,145 @@
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" type="text/css" href="styleguide/style.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+
+<body>
+  <div class="styleguide">
+<div class="container">
+   <div class="header">
+    </div>
+
+
+
+
+  <div class="row">
+ <div class="col-md-3">
+<img src="images/logo.png" alt="kapsarc" class="KAPSARC">
+</div>
+<div class="col-md-9">
+<ul id="main_menu" class="header__main-nav"><li class="main-nav_item"><a href="https://www.kapsarc.org/"class="nav">Home</a></li>
+
+<li class="main-nav_item "><a href="https://www.kapsarc.org/research/"class="nav">Research</a></li>
+<li class="main-nav_item "><a href="https://www.kapsarc.org/booksarticles/" class="nav">Books & Articles</a></li>
+<li class="main-nav_item "><a href="https://www.kapsarc.org/openkapsarc/"class="nav">Open KAPSARC</a></li>
+<li class="main-nav_item "><a href="https://www.kapsarc.org/news-events/"class="nav">News & Events</a></li>
+<li class="main-nav_item "><a href="https://www.kapsarc.org/about/"class="nav">About</a></li>
+<li class="main-nav_item "><a href="https://www.kapsarc.org/careers/"class="nav">Careers</a></li>
+
+</ul>
+
+
+  </div>
+
+</div>
+
+
+
+  <div class="row">
+  <div class="col-md-12">  
+      <Table>
+        <tr>
+        <td>
+        <a href="https://www.kapsarc.org/openkapsarc/kapsarc-vehicle-fleet-model/"><img src="images/VFM.png" alt="KAPSARC Vehicle Fleet Model" class="appsImg"></a>
+        <a href="https://www.kapsarc.org/openkapsarc/kapsarc-vehicle-fleet-model/"><button type="button"class="button submit">KAPSARC Vehicle Fleet Model</button></a>
+        </td>
+
+        <td>
+         <a href="https://www.kapsarc.org/openkapsarc/the-kapsarc-energy-model-for-saudi-arabia/"><img src="images/KEMKSA.png" alt="KAPSARC the kapsarc energy model for saudi arabia" class="appsImg"></a>
+        <a href="https://www.kapsarc.org/openkapsarc/the-kapsarc-energy-model-for-saudi-arabia/"><button type="button"class="button submit">KAPSARC the kapsarc energy model for saudi arabia</button></a>
+        </td>
+        </tr>
+       </Table>
+       </h2></div></div>
+
+
+
+
+
+        <div class="row">
+  <div class="col-md-12">  
+      <Table>
+          <tr>
+            <td>
+        <a href="https://www.kapsarc.org/openkapsarc/kapsarc-energy-data-portal/"><img src="images/ODS.jpg" alt="KAPSARC Energy Data Portal" class="appsImg"></a>
+        <a href="https://www.kapsarc.org/openkapsarc/kapsarc-energy-data-portal/"><button type="button"class="button submit">KAPSARC Energy Data Portal</button></a>
+        </td>
+        <td>
+         <a href="https://www.kapsarc.org/openkapsarc/kapsarc-solar-photovoltaic-toolkit/"><img src="images/solar.png" alt="KAPSARC the kapsarc energy model for saudi arabia" class="appsImg"></a>
+        <a href="https://www.kapsarc.org/openkapsarc/kapsarc-solar-photovoltaic-toolkit/"><button type="button"class="button submit">KAPSARC the kapsarc energy model for saudi arabia</button></a>
+        </td>
+        </tr>
+        </Table></div></div>
+
+
+
+
+        <div class="row">
+  <div class="col-md-12">  
+      <Table>
+        <tr>
+            <td>
+        <a href="https://www.kapsarc.org/openkapsarc/the-kapsarc-india-solar-policy-atlas/"><img src="images/atlas.png" alt="KAPSARC India Renewable Energy Policy Atlas" class="appsImg"></a>
+        <a href="https://www.kapsarc.org/openkapsarc/the-kapsarc-india-solar-policy-atlas/"><button type="button"class="button submit">KAPSARC India Renewable Energy Policy Atlas</button></a>
+        </td>
+        <td>
+         <a href="https://www.kapsarc.org/openkapsarc/kapsarc-toolkit-for-behavioral-analysis-ktab/"><img src="images/iktab.png" alt="KAPSARC Toolkit for Behavioral Analysis" class="appsImg"></a>
+        <a href="https://www.kapsarc.org/openkapsarc/kapsarc-toolkit-for-behavioral-analysis-ktab/"><button type="button"class="button submit">KAPSARC Toolkit for Behavioral Analysis</button></a>
+        </td>
+        </tr>
+        </Table></div></div>
+
+
+
+
+        <div class="row">
+  <div class="col-md-12">  
+      <Table>
+        <tr>
+            <td>
+        <a href="https://www.kapsarc.org/openkapsarc/the-kapsarc-policy-energy-database-kepd/"><img src="images/KEPD.png" alt="KAPSARC Energy Policy Database" class="appsImg"></a><br>
+        <a href="https://www.kapsarc.org/openkapsarc/the-kapsarc-policy-energy-database-kepd/"><button type="button"class="button submit">KAPSARC Energy Policy Database</button></a>
+        </td>
+        </tr>
+
+      </Table></div></div>
+      
+
+
+  <div class="footer">
+
+   <div class="col-md-3">
+  <img src="images/wlogo.png" alt="kapsarc" class="KAPSARC footer-logo">
+  </div>
+  <div class="col-md-6">
+  <ul id="footer_menu" class="footer_main-nav">
+    <li class="nav_item"><a href="https://www.kapsarc.org/disclaimer/"class="nav1">Disclaimer</a></li>
+  <li class="nav_item "><a href="https://www.kapsarc.org/contact-us/"class="nav1">Contact Us</a></li>
+  <li class="nav_item "><a href="https://www.kapsarc.org/privacy-policy/" class="nav1">Privacy Policy</a></li>
+  <li class="nav_item "><a href="https://www.kapsarc.org/terms-conditions/"class="nav1">Terms & Conditions</a></li>
+  
+  </ul>
+  </div>
+
+  <div class="col-md-3">
+<div class="copyright">
+ Copyright &copy; 2017 KAPSARC
+ </div>
+  </div>
+
+   </div>
+
+  </div>
+</div></body>
+  </html>
