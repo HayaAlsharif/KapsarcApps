@@ -19,17 +19,6 @@ height: 35px;
 @import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
 
 
-
-
-svg{
-  width: 400px;
-  height: 100px;
-  display: block;
-  position: relative;
-  overflow: hidden; 
- margin-top:-20px;
- margin-left:100px;
-}
 body {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-size: 18px;
@@ -45,20 +34,17 @@ padding: 10px 0;
 
 }
 
-img{
+.center{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;}
 
-	padding:5px;
-	width:350px;
-  margin-left: 10px;
-	height:250px;
-}
 
 .appsImg{
   
   padding:5px;
   width:300px;
   height: 500px;
-  margin-left: 130px;
   height:250px;
   background:#B0B0B0;
   background-size:1000px;
@@ -76,147 +62,27 @@ color:#7E7F82;
 font: 20px arial, sans-serif;
 }
 
-.neon {
-
-  background: #61A246; 
-  color: #ffffff; 
-  display: inline-block;
-   font-family: 'Lato', sans-serif; 
-   font-size: 12px; 
-   font-weight: bold; 
-   line-height: 12px; 
-   letter-spacing: 1px; 
-   margin: 0 0 30px; 
-   padding: 10px 15px 8px; 
-   text-transform: uppercase; 
-}
- .hit {
-color: #fff;
-font-size: 20px;
-font-weight: bold;
-font-family: Helvetica;
-text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
-}
-
-.hit{
-  text-align: center;
-}
-
 body {
   background-color: #f1f1f1;
 }
-.neeon {
 
-  background: #61A246; 
-  color: #ffffff; 
-  display: inline-block;
-   font-family: 'Lato', sans-serif; 
-   font-size: 12px; 
-   font-weight: bold; 
-   line-height: 12px; 
-   letter-spacing: 1px; 
-   margin: 0 0 30px; 
-   margin-left: 50px;
-   padding: 10px 15px 8px; 
-   text-transform: uppercase; 
-}
-
-.icon{
-  width:150px;
-  height:120px;
-
-
-}
-
-
-#main_menu {
-    list-style-type: none;
-    margin: 20px;
-    padding: 0;
-    overflow: hidden;
-    background-color: #fff;
-}
-
-
-.padding{
-padding-left: 15px;
-
-
-}
-small{
-font-weight:normal;
-font-size:12px;
-color:#61A24F;
-
-
-}
-
-.ARIALREGULAR{
-font: 15px arial, sans-serif;
-color:#7E7F82;
-
-}
-
-.ARIALBOLD{
-font: 15px arial, sans-serif;
-color:#61A24F;
-font-weight: bold;
-
-}
-
-.TIMES{
-font: 15px times, serif;
-color:#7E7F82;
-
-}
-
-.TIMESBOLD{
-font: 15px times, serif;
-font-weight: bold;
-color:#7E7F82;
-}
-.Paragraph_header{
-  padding-bottom: 5px;
-text-align: center;
-color:#61A24F;
-
-}
-.Paragraph{ position: relative;
-    left: 20px;
-    width: 1000px;
-  text-align:justify;
-  color:#7E7F82;
-  font: 18px arial, sans-serif;
-
-}
-.Paragraph1{text-align:justify;
-  color:#7E7F82;
-  font: 18px arial, sans-serif;
-}
 .button{
 border: none;
-
-  text-align: center;
-  text-decoration: none;
-  
-  border-radius: 4px;
+text-align: center;
+text-decoration: none;  
+border-radius: 4px;
 font-weight: normal;
-
 width:100px;
-
 border: none;
 font-size: 15px;
 font-weight: normal;
 line-height: 1.4;
-
 padding: 10px 15px;
 -webkit-transition-duration: 0.4s;
-   transition-duration: 0.4s;
-   
-   margin-left: 240px;
-
-
-
+transition-duration: 0.4s;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .button:hover {
@@ -224,42 +90,37 @@ padding: 10px 15px;
 
 }
 
-.get{    background-color: #61A24F;
-  color: white;
-margin-top: 20px;
-}
-
 
 .submit {
-    background-color: #61A24F;
-  color: white;
+background-color: #61A24F;
+color: white;
 margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 
 
 .button1{
-  border: none;
-
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    border-radius: 4px;
-  font-weight: normal;
-
-  width:150;
-
-  border: none;
-  font-size: 15px;
-  font-weight: normal;
-  line-height: 1.4;
-
-  padding: 10px 15px;
-  -webkit-transition-duration: 0.4s;
-     transition-duration: 0.4s;
-     cursor: pointer;
-margin-left: 15px;
-
+border: none;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 4px;
+font-weight: normal;
+width:150;
+border: none;
+font-size: 15px;
+font-weight: normal;
+line-height: 1.4;
+padding: 10px 15px;
+-webkit-transition-duration: 0.4s;
+transition-duration: 0.4s;
+cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 
